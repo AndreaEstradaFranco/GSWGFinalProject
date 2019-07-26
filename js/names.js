@@ -11,4 +11,5 @@ export const blair = 'Blair';
 export const isaac = 'Isaac';
 export const doug = 'Doug';
 export const andrea = 'Andrea';
+export const erica = 'Erica'
 // export const [yourName] = "Your name"
